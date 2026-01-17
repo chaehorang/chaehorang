@@ -68,7 +68,7 @@
 
 ### 📞 **Contact**
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jiho7213@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-2DB400?style=for-the-badge&logo=Naver&logoColor=white)](mailto:chilbok1129@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yoonchae0815@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-2DB400?style=for-the-badge&logo=Naver&logoColor=white)](mailto:yoonchae7213@naver.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B2F2BB&height=150&section=footer"/>
