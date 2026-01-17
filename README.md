@@ -17,20 +17,6 @@
 🥈 신세계I&C K-디지털트레이닝 우수상 (2024)  
 <hr>
 
-### 🔖 GitHub Stats
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jijihorang&show_icons=true&theme=vue&count_private=true" width="420" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijihorang&layout=compact&theme=vue&cache_seconds=1" width="320" />
-    </td>
-  </tr>
-</table>
-
-<hr>
-
 ### 🛠️ **Tech Stacks**
 
 **Backend**
